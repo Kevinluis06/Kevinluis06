@@ -1,15 +1,15 @@
-### Boas vindas ao meu perfil:
+### Boas vindas ao meu perfil💙
 
+Meu nome é Kevin Luis
 
-**Kevinluis06/Kevinluis06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando na alura
+- Estou me desenvolvendo na linguagem  javaScript
+- Utilizo esse espaço para minha organização é compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### Você entar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+0001245073308sp@aluno.educacao.sp.gov.br
+
+@Kevinluis_06
+
+![](https://media1.tenor.com/m/bSa0pvjKt4IAAAAd/volleyball-yuki-ishikawa.gif)
